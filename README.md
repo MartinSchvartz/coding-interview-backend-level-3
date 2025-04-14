@@ -67,7 +67,7 @@ npm install
 
 2. Iniciar la base de datos PostgreSQL con Docker:
 ```bash
-docker-compose up -d
+docker-compose up
 ```
 
 3. Ejecutar la aplicación:
